@@ -1,2 +1,2 @@
 # Autodelhis
-Extension that 
+Extension that automatically deletes history for you so that you won't get caught...
